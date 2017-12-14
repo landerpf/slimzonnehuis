@@ -9,3 +9,5 @@ also the program has to be linked to wheater predictions about the irradiance of
 the heating methods are completly written the only thing needed is to fill in the properties of the heating sytem
 ,the properties of the isolation and properly import temprature predictions
 the Excel files give the result of a simulation with the year averages (excluding heating because these files weren't provided)
+
+special thanks to energy ville for providing test data
