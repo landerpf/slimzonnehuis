@@ -1,0 +1,4 @@
+﻿name device,wattage device [W],duration a multiple of 15 min,
+wasmachine,170,60,
+droogkast,1000,60,
+vaatwasser,2400,60,
